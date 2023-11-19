@@ -21,3 +21,6 @@ A Jupyter notebook is also available. [Download the notebook here](https://githu
 
 ## Open in Colab
 You can also open the notebook in Colab, modify it, and then save it back to GitHub. [Open in Colab](https://colab.research.google.com/github/mavericb/orcas/blob/main/orcas.ipynb). To save the file, go to 'File', select 'Save a copy in GitHub', click on the checkbox to include a link, and then click 'OK'.
+
+## Open in JupyterLab
+[Open in Jupyter Notebook](YOUR_NOTEBOOK_URL){: .btn}
