@@ -25,6 +25,4 @@ You can also open the notebook in Colab, modify it, and then save it back to Git
 ## Open in JupyterLab
 [Open in Jupyter Notebook](YOUR_NOTEBOOK_URL)
 
-## Open in Binder
-[Run in Binder](https://mybinder.org/v2/gh/MachineLearning-Together/orcas/main)
 
